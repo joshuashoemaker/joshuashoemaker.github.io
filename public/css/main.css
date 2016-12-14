@@ -63,7 +63,7 @@ p{
 }
 
 #bioWrapper{
-    padding: 50px 0px;
+    padding: 100px 0px;
 }
 
 body{
@@ -76,6 +76,10 @@ h1, h2, h3, h4, h5{
 
 #projectsWrapper{
     padding: 60px 0px;
+    border-bottom-style: solid;
+    border-block-start-width: 1px;
+    border-bottom-color: rgba(50, 50, 50, 0.2);
+    margin-bottom: 40px;
 }
 
 .project{
