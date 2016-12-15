@@ -231,3 +231,31 @@ footer .socialIcon{
 footer .socialIcon:visited{
     color: rgb(50, 50, 50);
 }
+
+.p85{
+    width: 85%;
+}
+
+.p80{
+    width: 80%;
+}
+
+.p70{
+    width: 70%;
+}
+
+.p60{
+    width: 60%;
+}
+
+.p65{
+    width: 65%;
+}
+
+.p40{
+    width: 40%;
+}
+
+.p35{
+    width: 30%;
+}
