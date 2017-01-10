@@ -17,4 +17,7 @@ $('.project').click(function(){
     else if(id === "eContract"){
         window.open("http://www.github.com/joshuashoemaker/eContract", '_blank');
     }
+    else if(id === "blogEngine"){
+        window.open("http://www.github.com/joshuashoemaker/python-blog-engine", '_blank');
+    }
 })

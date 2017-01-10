@@ -232,6 +232,10 @@ footer .socialIcon:visited{
     color: rgb(50, 50, 50);
 }
 
+.p90{
+    width: 90%;
+}
+
 .p85{
     width: 85%;
 }
@@ -257,5 +261,9 @@ footer .socialIcon:visited{
 }
 
 .p35{
+    width: 30%;
+}
+
+.p30{
     width: 30%;
 }
