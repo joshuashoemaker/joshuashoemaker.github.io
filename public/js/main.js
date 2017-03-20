@@ -14,8 +14,8 @@ $('.project').click(function(){
     else if(id === "brightScreen"){
         window.open("http://www.github.com/joshuashoemaker/brightScreen", '_blank');
     }
-    else if(id === "eContract"){
-        window.open("http://www.github.com/joshuashoemaker/eContract", '_blank');
+    else if(id === "ferryman"){
+        window.open("http://www.github.com/joshuashoemaker/theferryman", '_blank');
     }
     else if(id === "blogEngine"){
         window.open("http://www.github.com/joshuashoemaker/python-blog-engine", '_blank');
